@@ -10,6 +10,7 @@ namespace git_project.Pages
         public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
+            // india 
         }
 
         public void OnGet()
